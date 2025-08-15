@@ -1,5 +1,5 @@
 #include <cmath>
-#include "Editor.h"
+#include "CString.h"
 #include "Group.h"
 
 #ifndef BINARY_H
